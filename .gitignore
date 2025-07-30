@@ -1,0 +1,7 @@
+# VS files
+.vs/
+*.user
+
+#Temporary files
+[Bb]in/
+[Oo]bj/
